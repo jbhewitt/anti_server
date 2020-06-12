@@ -12,7 +12,9 @@ require 'mina/rbenv'  # for rbenv support. (https://rbenv.org)
 set :application_name, 'r6anti'
 set :domain, 'streamrelay.vimme.com.au'
 set :deploy_to, '/var/www/r6anti'
+set :app_path,   "#{:deploy_to}/#{:current_path}"
 set :repository, 'git@github.com:jbhewitt/anti_server.git'
+set :stage, 'production'
 set :branch, 'master'
 
 # Optional settings:
@@ -78,20 +80,20 @@ end
 namespace :puma do
   desc "Start the application"
   task :start do
-    command 'echo "-----> Start Puma"'
-    command "cd #{app_path} && RAILS_ENV=#{stage} && bin/puma.sh start", :pty => false
+    command %{echo "-----> Start Puma}
+    command %{cd /var/www/r6anti/current && RAILS_ENV=production && bin/puma.sh start}
   end
 
   desc "Stop the application"
   task :stop do
-    command 'echo "-----> Stop Puma"'
-    command "cd #{app_path} && RAILS_ENV=#{stage} && bin/puma.sh stop"
+    command %{echo "-----> Stop Puma"}
+    command %{cd /var/www/r6anti/current && RAILS_ENV=production && bin/puma.sh stop }
   end
 
   desc "Restart the application"
   task :restart do
-    command 'echo "-----> Restart Puma"'
-    command "cd #{app_path} && RAILS_ENV=#{stage} && bin/puma.sh restart"
+    command %{echo "-----> Restart Puma"}
+    command %{cd /var/www/r6anti/current && RAILS_ENV=production && bin/puma.sh restart}
   end
 end
 
