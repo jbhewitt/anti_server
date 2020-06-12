@@ -1,0 +1,511 @@
+Player ID,First name,Surname,Alias,Team,,SHA-256 Hash
+1,NOT A REAL,PLAYER,DUMMY_A,DUMMY_TEAM_A,OCE_NORTH,32227d7be0a72b666172e88302b3ee63fac9ba002bf829344af407d024588186
+2,NOT A REAL,PLAYER,DUMMY_B,DUMMY_TEAM_A,OCE_NORTH,27aa917eaf5e8d3e3ef106100be398859efd34ead32739a696e7b3c7eabaee66
+3,,,,,OCE_NORTH,
+4,,,,,OCE_NORTH,
+5,,,,,OCE_NORTH,
+6,,,,,OCE_NORTH,
+7,,,,,OCE_NORTH,
+8,,,,,OCE_NORTH,
+9,,,,,OCE_NORTH,
+10,,,,,OCE_NORTH,
+11,,,,,OCE_NORTH,
+1,Fnatic Ltd,Samuel,Mathews,Fnatic,OCE_NORTH,478c5a8975082e931089c6778d70781cd3b57c768e6e528a7d28fac6b7f102db
+2,Dizzle,Jayden,Saunders,Fnatic,OCE_NORTH,2bde1260dd07710ca71c60e40e66b287783b60f32d50a7ae536128e71f6772fb
+3,,,,Fnatic,OCE_NORTH,
+4,Crapelle,Laurent,Patriarche,Fnatic,OCE_NORTH,ed101087eb6840fd7421f9160591721a5f4bd00a747790b3060b5cb49cefdc73
+5,Magnet,Etienne,Rousseau,Fnatic,OCE_NORTH,6df4c8fbfada0efc8120ecc618a18d51c0d2f371a9a03ea1406ba4fe01f6339d
+6,Lusty,Jason,Chen,Fnatic,OCE_NORTH,5fe9c20ba9e657ad05c513d38b3cefdbe0d545dd17708bb8658cc1bbc6ca14d1
+7,Tex,Tex,Thompson,Fnatic,OCE_NORTH,c22972aa978a9552acbe06f887b1519ea7296381b54599e17de71a3b20337fb1
+8,MentalistC,Zi Chen,Fan,Fnatic,OCE_NORTH,e9bf9cc4118d9861717f641a1ff2fa409460be0d4dd1eddefcb6561c99c00ea5
+9,Stigs,Riley,Mills,Fnatic,OCE_NORTH,b9e9ca446db6fdd34507ed4285e1be0f082d30d68c2dbe252d7c08713415b2e2
+10,Acez,Matthew,Mc Henry,Fnatic,OCE_NORTH,e44020fd03d857a20f576d0108cca218b66687a9740918b003bbc5cf988eb602
+11,,,,,OCE_NORTH,
+12,Giants Gaming Esports S.L.,Jose Ramon,Diaz Almonacid,Giants Gaming,OCE_NORTH,b2c3c16167798be4801e037fdb22743b8750585fbe5bb22ab4e329dba965e91b
+13,Nunaso,Alejandro,Nuñez Rodriguez,Giants Gaming,OCE_NORTH,19045d7b8037a1c179a87bce08b99a1db3fb3ece1fc7f8a40715d6b06abaff27
+14,GiG,Ellis,Hindle,Giants Gaming,OCE_NORTH,f05ab81adc4b813bb27aaa4704eb56f88f59c7c497a0442e78edbdbaa73ec037
+15,Lunarmetal,Glen,Suryasaputra,Giants Gaming,OCE_NORTH,771483b6a774916dff7c8dda35ff94744c7b52fbcefec51866b6e9ec5bf562b8
+16,Ysaera,Adrian Hong Rui,Wui,Giants Gaming,OCE_NORTH,47cd02e6c3db58ba6008488633e3e7477fccaaa132a44200fa793beb4b8871c1
+17,HysteRiX,Jeremy Mao Xuan,Tan,Giants Gaming,OCE_NORTH,0d5a7c28d2fe469f5fa5677f1592093fe156bfefc5dbad1017c7c4a800ec7535
+18,SpeakEasy,Mohamed Matin,Mohamed Yunos,Giants Gaming,OCE_NORTH,e11ebe40c6f9525954405010061475a5babe61e0d3102623c5a6facb3f4f7e09
+19,Jrdn,Jordan Jia Heng,Cheng,Giants Gaming,OCE_NORTH,a019371cd58cde71ac93b69fae360dcefd4663b9ee6d639e34b29df14ee2a3a2
+20,Histoire,Jose,Iman,Giants Gaming,OCE_NORTH,ed3dae5c489b7c69c1b5bebe617e3156babbf8ab818902e98d1c85a1c5c41868
+21,,,,,OCE_NORTH,
+22,,,,,OCE_NORTH,
+23,Nora-Rengo,Yasuhiro,Nishi,Nora-Rengo,OCE_NORTH,54ef8180e75975c37fc38a38333502e3df636156df4b01f2769585d427d5c3b0
+24,Jinku,Hitoshi,Okada,Nora-Rengo,OCE_NORTH,6fafdfd0fa540dc6ebf7cad8955d7c0c0745ca5c7cad804f5a7d29755e1a3b6a
+25,Ar7hur,Arthur,Schubert Aguiar,Nora-Rengo,OCE_NORTH,eda0b49eec099bf25c9c6729e91340b4b0e6c00d1a03cb6db9435057a3583a60
+26,Merieux,Tsukasa,Asano,Nora-Rengo,OCE_NORTH,2851693057cf63c69783a96b370767ea49e84015025cc62d5e7ae48351ce01cd
+27,Yoshinngo,Yoshifumi,Yukimori,Nora-Rengo,OCE_NORTH,6219714159b9ea6c86fc5a2b777468bcb93745bd2ee3b8d645abd3524ff2dea2
+28,SouLBoi,Yano,Atsushi,Nora-Rengo,OCE_NORTH,f45ee1afac674e2adf9d85d41960bac0e562f3d401f10cfe80fba771f6fdfb73
+29,simotuki,Tomohisa,Iimoto,Nora-Rengo,OCE_NORTH,c881437a8ff7c5c20f104bee9fba523e70783650c8e71a4d579cd2210cd84802
+30,papilia,Toya,Miyazawa,Nora-Rengo,OCE_NORTH,06a37292533b9d8cfbb085c94c4309179a293c90cb145a338fc30d1883ab94e2
+31,kizoku.BOSS,Yasuhiro,Nishi,Nora-Rengo,OCE_NORTH,a5a887112aa1ba6b21b3e287eb4a9b7ab9e2a96f536f772d2c5044413f900e66
+32,Wokka,Yudai,Ichise,Nora-Rengo,OCE_NORTH,5077d003fb25f423e78993f4adf752c19ecf4007bf26690e7c942945ef883945
+33,,,,,OCE_NORTH,
+34,Cloud9,Jacques,Etienne,Cloud9,OCE_NORTH,c5c5f72b881c806fae7dc19544fb52c3d9de7e4658212c0c892c9ac902f950c5
+35,Robin,Seunghwan,Lee,Cloud9,OCE_NORTH,d9f17b5692df720c86f2137dbd74bd901abf04443471393a496f73e1193cd50e
+36,RechoTZ,Minjae,Seo,Cloud9,OCE_NORTH,b87b5dc168144e53f8817347bcfbd116cac7eff9a1c4fbec71e990ae863f834d
+37,EnvyTaylor.C9,SeongSoo,Kim,Cloud9,OCE_NORTH,98b9f6462e746e483014f7c0319242fc05eb8e729bc71dd89edc34f6d2da164f
+38,Nova.C9,SiHun,Lee,Cloud9,OCE_NORTH,3bd476ead318939fae4e898403ee0f42602cc4b9eb4064b010b41fabc541e55e
+39,SweetBlack.C9,ChanYoung,Han,Cloud9,OCE_NORTH,0986219154c5ba43ae4bebbea1369a09addf0c9989e2ec6b1922d17d6454317e
+40,Harp3rXD,HYOJUN,Lee,Cloud9,OCE_NORTH,51f2aafb9cb24965fac4b76f6e7a96e35228e8d1f0cd7d0248487e26f2c9a6ff
+41,SyaIL,Dongseon,Song,Cloud9,OCE_NORTH,59c3d23ded881237c0578f3e3712e37adb9dc0b4b55d99a9bd60051ee0d73028
+42,,,,,OCE_NORTH,
+43,,,,,OCE_NORTH,
+44,,,,,OCE_NORTH,
+45,株式会社KADOKAWA Game Linkage,KAZUKI,HORIGOME,FaV Gaming,OCE_NORTH,5545ec59c5e53d943879142ceee4ba76e01793cd3a4b80e1e344f61faa984150
+46,OdeNMiso,KAITO,YONEZU,FaV Gaming,OCE_NORTH,43ebc078a83a54a7816d03b74bb5e645f2f2e021f53d63c7c87d282fe9fa2766
+47,,,,FaV Gaming,OCE_NORTH,
+48,ShiN,SHINJI,FUNAI,FaV Gaming,OCE_NORTH,dffaa429b3df959af78b0a786671cfd5298453e816d13728f1501e4c62c8d191
+49,Afro,NAOKI,KOBAYASHI,FaV Gaming,OCE_NORTH,fb4b5387cd7f4f08d02a36742f92431e6554509e13c2a051967631c84fb0f5b6
+50,Taipon,TAIGA,KAWABUCHI,FaV Gaming,OCE_NORTH,db2abe73c0fb924f4c85af944176f704daa7d2c64891692721de85ae2a166a56
+51,ChloroForM,TAKUYA,KUROSU,FaV Gaming,OCE_NORTH,6bf9d78b20c8f3cc60949fae65c90d295f0da520d7b5bee3e2f20a67c261a4d9
+52,No2,TAKU,MURAKAMI,FaV Gaming,OCE_NORTH,6d0120bc11d6dd8b2fbd6207272b88ce3d50e2b4aa681b3bcb79695b477e96be
+53,Tatsukin,TATSUKI,KITAGAWA,FaV Gaming,OCE_NORTH,51b2717836bedeb5728331d78289278dcae89c1f1a1547f33ac9e872e2a396e6
+54,Nata,NAOKI,MURASE,FaV Gaming,OCE_NORTH,f3e3e45b738f5e974f85b2558dbaf98cb9760467433c1a11b249924fdc362e87
+55,,,,,OCE_NORTH,
+56,株式会社GUTS,正篤,tozawa,GUTS Gaming,OCE_NORTH,0f151b141815d8cc5c342527501c3f598bada48d66c1acb1ba5de2e5ba2a970c
+57,p3Ril,ryo,nakayashiki,GUTS Gaming,OCE_NORTH,fb2a68b08daefe53a9547bce5129d0a9520378906abcebafe6bf3fb5e2eb8c21
+58,Cloud,Yuya,Inoue,GUTS Gaming,OCE_NORTH,bf9ac84c071b7ccb470c0dbcfbed749d466cb5af6d7337ae050c2290ab5cc96e
+59,CrazyPapiyoN,Yasushi,Nakajo,GUTS Gaming,OCE_NORTH,54eeccf6db19b98cdd0df0229516dcbd5cec0b4312a4efcd57f2b1d9ed472994
+60,JJ,Takumi,Iwasaki,GUTS Gaming,OCE_NORTH,0acce96dc4ea0cb2f7f50fb13b8f85431e33fb7d273532e09663f85100ca6015
+61,Yura,naoki,Takamoto,GUTS Gaming,OCE_NORTH,d9b727ed8d6e344070e74b2eaef1a649f9da8ad1845ab9a946e2004c733826b3
+62,Li9ht,hikaru,oosawa,GUTS Gaming,OCE_NORTH,35c3dbbb5eeb8e867ca0e3804f7a4ca4f7a1a6e6ae03fd40b2e7f51411d2d6de
+63,Lily,Kazuki,Yamane,GUTS Gaming,OCE_NORTH,53139b34fffce8bd22f2cfe0ab51c5834d81c77b90b05590459477c18cc20433
+64,,,,,OCE_NORTH,
+65,,,,,OCE_NORTH,
+66,,,,,OCE_NORTH,
+67,ブロードメディアeスポーツ株式会社,RYUICHI,HISAMATSU,CYCLOPS Athlete Gaming,OCE_NORTH,e82bf7f812e075d3059027e81a32b3c0ebf2e3bbf189856845d28f55331c3263
+68,KYON,KYOHEI,NISHIO,CYCLOPS Athlete Gaming,OCE_NORTH,d062447c641bb217ec4b67ba309d575cb53748de161979f10e3e71a7983329ce
+69,XQQ,HIBIKI,MOTOYAMA,CYCLOPS Athlete Gaming,OCE_NORTH,ced622dea87cf949c13ccf8ea1ef75dec87d8826f3ab5e60f9bebb8c6e57d8b7
+70,SuzuC,TAKUMA,NAKAJIMA,CYCLOPS Athlete Gaming,OCE_NORTH,cee2e63077316402641f464c2acc49b2316443aca4c9ae545c664b4167b07030
+71,Ayagator,TAIYO,HIRAYAMA,CYCLOPS Athlete Gaming,OCE_NORTH,f658bcbaa9c651639bd971c7d548ec136d9882bf47b22b036c1e939f37f46612
+72,BlackRay,SHO,HASEGAWA,CYCLOPS Athlete Gaming,OCE_NORTH,2911a3242045222e8374e38ed2adcb21dacba42d43c31a0376098719ddbf4db9
+73,Anitun,REON,SAKAI,CYCLOPS Athlete Gaming,OCE_NORTH,0e5c8ed34e30fff89cc32791c5ffa0c15c034720b41792666e77b2e092006221
+74,Gatorada,HIDEKI,NISHIDA,CYCLOPS Athlete Gaming,OCE_NORTH,38ddb2bfec4103263e9e7be8f01597df9b86068def99a8e54be4f16842f1b237
+75,Zexia,TENTA,KUSHIBIKI,CYCLOPS Athlete Gaming,OCE_NORTH,ccb3565c92c5e534cbe05b362d695305ce6ef767b115c8a75f6089d8147b234a
+76,,,,,OCE_NORTH,
+77,,,,,OCE_NORTH,
+78,Talon Esports Limited,Xiao Yi,Zhang,Talon Esports,OCE_NORTH,09da610542557d7bfada2889831cf11500f78fc0c45abc8e46c8ff1d24f83987
+79,Dohoon,Dohoon,Kim,Talon Esports,OCE_NORTH,73dc33148dafc79cda903f1b62e7b47b8f09fbe2f5c65bc3446304b51c07acd0
+80,Sunbi,Eun Abraham,Jang,Talon Esports,OCE_NORTH,1ec220ebd182f44afdf7f6bcf36553356a5ba2265bf17638d87ff0ca1ac19fe7
+81,LabyRinth.TALON,Youhyeon,Doh,Talon Esports,OCE_NORTH,c9d018432f5249ec6267d963148fa44e37ba7b921378f96aa979a1b48cafcb67
+82,Pmw.TALON,Someya,Masaki,Talon Esports,OCE_NORTH,739b63ea5b7eb8ea74c82d385f4d4f3f66943b67dfc678956fd090214dce0c8a
+83,EGG.TALON,Haneul,Kim,Talon Esports,OCE_NORTH,ca747445ee6141476cdde98da8fb72294e594edf9bb9c21dadf5768ed453c893
+84,BD.TALON,Minhyuk,Song,Talon Esports,OCE_NORTH,74f4d4770db81cf35645fc8c8ed3e901c1396fed33be23c5b0d62f3d3038afab
+85,Nero.TALON,Juyeong,Jeong,Talon Esports,OCE_NORTH,b53781c132ca71f15afa628ca59664b7613b4e28c3671f738c393b41b792b7dc
+86,Tomorrow.TALON,Daegyu,Han,Talon Esports,OCE_NORTH,06857dcbcf9b25bfdae09c8c83825aaaabfa845c64fe3230626878dad93aa5b7
+87,,,,,OCE_NORTH,
+88,,,,,OCE_NORTH,
+89,"XENOZ Co.,ltd",Yoichi,Tomori,SCARZ,OCE_NORTH,efe3573060f6db8e7ee90fd4affcd6c965502881425b40988126929dff2a4111
+90,Hybrid,RICARDO,MASSIMINO FONT,SCARZ,OCE_NORTH,bbc0566b83a85c57f0c3f89102eec9e5cb3a20a173feee377ebfa67757e4b744
+91,Revi,JUN YOUNG,SHIN,SCARZ,OCE_NORTH,d79259f1d2553633db78d7cc9e6f16a402127c9a0011d0b312aaa8016bbada45
+92,iLeven,WONIL,CHA,SCARZ,OCE_NORTH,c31323251a7a44532e9f5dbd209417a264ab8ed4ef028e9f94a60b134dd3407d
+93,Demic,DAEYEONG,KIM,SCARZ,OCE_NORTH,97edc5fb446bc5bec52fcf48eef28dd3c59f6f63073797a6592fe58250603637
+94,yass,SANGHOON,YOO,SCARZ,OCE_NORTH,99707ed8a57677991e076e2ba0dcaec41447f478d6a79d3e904808e4f7a34fc8
+95,CrazyBoy,MINHO,CHOI,SCARZ,OCE_NORTH,3e61b8c69c9472570fce5bee7346c23f9ec36f983ae2b723354e05e501014fb8
+96,Kanos,SEONGBEOM,LEE,SCARZ,OCE_NORTH,badd7d2dce59bd4f7d50701d4b67c34b5df9f65d23eaedfd92e111aa19bcb2e1
+97,,,,,OCE_NORTH,
+98,,,,,OCE_NORTH,
+99,,,,,OCE_NORTH,
+100,Xavier Esports Company Limited,Anat,Ruangwong,Xavier Esports,OCE_NORTH,3d5ef1e2ba208c24b064c3a423bc69f2559b8ab96a532be26112f7316c1c11af
+101,Dr.Bestsiaer,Nattakan,Prachanban,Xavier Esports,OCE_NORTH,b1766f8d076c97124ec092d3d4384701069a6d0026466bc835759939586e7c88
+102,,,,Xavier Esports,OCE_NORTH,
+103,redsun00,Thiti,Chairoek,Xavier Esports,OCE_NORTH,e552e838c7793813e984c26e6550fcd427c99fb57710a1f2fe8cc1112790f179
+104,Scatman.-,Atibordee,Noichan,Xavier Esports,OCE_NORTH,1c62d53953eaecf3678e26b7ffc81445ec65e8d98991ea4720c8dd154770f27d
+105,Nay..Pew,Sumate,Srimabut,Xavier Esports,OCE_NORTH,84adfd9019f7ae6957ca51dc619a4120a6aca36bcaf87f9a98b6514264c1a723
+106,DCH,Adithep,Channuan,Xavier Esports,OCE_NORTH,2d8b0a56fe26f6930eab6bc16f9681b3aa40cfc720140a41605eca7b8d621517
+107,WARBARK,Peeranut,Thiraboot,Xavier Esports,OCE_NORTH,ad3f756067ba13f202070717c9d2e0f3e8e446c91d35a0222778d476ead66540
+108,Roldinii,Parin,Boonnart,Xavier Esports,OCE_NORTH,4e5cae556f20f77a3aaeebeef03cb2ebeaf40cefc5cc8c15f2dec2c388c4aa62
+109,Onigiri,Paramin,Suwanwattana,Xavier Esports,OCE_NORTH,8a5cd6234ceaa9800a7a9c1c6d08f4cf40ff28ebe745b477617ef6d7cf7bcfa1
+110,,,,,OCE_NORTH,
+111,Kaewarsa Studio Company Limited,Attapol,Kas,Qconfirm,OCE_NORTH,0e93ddc1ad5f51036d79754990a7da1b35ea4d55355746335e8a0dce66b2a967
+112,Tanler7,Saharuch,Manosamut,Qconfirm,OCE_NORTH,71b7595414d0b7a26e6e8a53f5adf70ea5cb2a77c67fae32adba3d9d67af71eb
+113,,,,Qconfirm,OCE_NORTH,
+114,Lycolis.QC,Sillapakorn,Dokmaikhaw,Qconfirm,OCE_NORTH,5386b4a254a7f828693fdf8a898ad1f014da104028df36df06e05d6284de9fda
+115,Hajime-.,Surachat,Loednaweporn,Qconfirm,OCE_NORTH,5cd93131723c38369415102b539d2567fa1dbbf6e9ed5bcc0fa6a2f0bdad7c09
+116,HealthcareOG.Qc,Chayapat,Boonyamanop,Qconfirm,OCE_NORTH,8cbd1d658665c9ca35702308ee7c5f1e367af48b30bb0555b926ca8f891b8a68
+117,Producerboom,Chayakorn,Tsai,Qconfirm,OCE_NORTH,eea9868be7e4b1b8b578f246278dfd95f76cc5da1f1e36b2b7ceed350d4dc53b
+118,Funleks.-.,Rattatammanooon,Muangngam,Qconfirm,OCE_NORTH,5f6e4966e93ac452f6bd450e82cedce5f5926a808774925e03695e74f35ae3f0
+119,,,,,OCE_NORTH,
+120,,,,,OCE_NORTH,
+121,,,,,OCE_NORTH,
+122,Electrify Esports LTD,Samuel,Nevin,"Electrify Esports
+(EFY)",OCE_NORTH,44b19d56659d1ab83f9f0a9954c52e6156d98705e2328320af6974e282be4a6e
+123,Daling,Ying Mei,Zhang,"Electrify Esports
+(EFY)",OCE_NORTH,1e4f21a91cc3d2a06a9a87c926286d2538fb9219f45184df7ad1a37575268124
+124,BruceZz,Jing He,Zhang,"Electrify Esports
+(EFY)",OCE_NORTH,730107ad61ee25c1ac2dba18fe8b75c0a387a6db214a708a8c87cfef4d08bb91
+125,Ray,Ruei Wei,Chen,"Electrify Esports
+(EFY)",OCE_NORTH,c87ab6ce35cfba2e1fb8966dcbffb18014309063ffc89af2d5c63bca7a2e339b
+126,ED,Chen Hou,Tsung,"Electrify Esports
+(EFY)",OCE_NORTH,c15c77d4bbca1f38aa4ceece16a573f88f4c17e9c9f3cd997ca623d123b92e70
+127,Flash,Zong Min,Lin,"Electrify Esports
+(EFY)",OCE_NORTH,4b0fa73ff8d2b55280a6bba50b6ecc215ce5a8b5ab3b45cc38cc1b241a6c24af
+128,Souffle,Hong Ting,Cai,"Electrify Esports
+(EFY)",OCE_NORTH,0e96a6b65776cd7e9ad14cfcc7903662f18d7a4325f8b5e855d976ce13e27a1b
+129,Pika,Yu Siang,Lin,"Electrify Esports
+(EFY)",OCE_NORTH,8875ad5c47261a38854d36085032ace5999232c5ae2696aeec9f2035bc399f72
+130,Sino,Kuei En,Lee,"Electrify Esports
+(EFY)",OCE_NORTH,092e18ea7445ac9320212a2a39ce5bf1cc9f8981aa4d214886308c4e3bebdf5c
+131,Ace,Stephen,Beukes,"Electrify Esports
+(EFY)",OCE_NORTH,8b69b535e33b0b54c2110a5ce918fcc5bba97188ae700942d623c201d728ae1c
+132,,,,,,
+133,,,,,,
+134,,,,,,
+135,,,,,,
+136,,,,,,
+137,,,,,,
+138,,,,,,
+139,,,,,,
+140,,,,,,
+141,,,,,,
+142,,,,,,
+143,,,,,,
+144,,,,,,
+145,,,,,,
+146,,,,,,
+147,,,,,,
+148,,,,,,
+149,,,,,,
+150,,,,,,
+151,,,,,,
+152,,,,,,
+153,,,,,,
+154,,,,,,
+155,,,,,,
+156,,,,,,
+157,,,,,,
+158,,,,,,
+159,,,,,,
+160,,,,,,
+161,,,,,,
+162,,,,,,
+163,,,,,,
+164,,,,,,
+165,,,,,,
+166,,,,,,
+167,,,,,,
+168,,,,,,
+169,,,,,,
+170,,,,,,
+171,,,,,,
+172,,,,,,
+173,,,,,,
+174,,,,,,
+175,,,,,,
+176,,,,,,
+177,,,,,,
+178,,,,,,
+179,,,,,,
+180,,,,,,
+181,,,,,,
+182,,,,,,
+183,,,,,,
+184,,,,,,
+185,,,,,,
+186,,,,,,
+187,,,,,,
+188,,,,,,
+189,,,,,,
+190,,,,,,
+191,,,,,,
+192,,,,,,
+193,,,,,,
+194,,,,,,
+195,,,,,,
+196,,,,,,
+197,,,,,,
+198,,,,,,
+199,,,,,,
+200,,,,,,
+201,,,,,,
+202,,,,,,
+203,,,,,,
+204,,,,,,
+205,,,,,,
+206,,,,,,
+207,,,,,,
+208,,,,,,
+209,,,,,,
+210,,,,,,
+211,,,,,,
+212,,,,,,
+213,,,,,,
+214,,,,,,
+215,,,,,,
+216,,,,,,
+217,,,,,,
+218,,,,,,
+219,,,,,,
+220,,,,,,
+221,,,,,,
+222,,,,,,
+223,,,,,,
+224,,,,,,
+225,,,,,,
+226,,,,,,
+227,,,,,,
+228,,,,,,
+229,,,,,,
+230,,,,,,
+231,,,,,,
+232,,,,,,
+233,,,,,,
+234,,,,,,
+235,,,,,,
+236,,,,,,
+237,,,,,,
+238,,,,,,
+239,,,,,,
+240,,,,,,
+241,,,,,,
+242,,,,,,
+243,,,,,,
+244,,,,,,
+245,,,,,,
+246,,,,,,
+247,,,,,,
+248,,,,,,
+249,,,,,,
+250,,,,,,
+251,,,,,,
+252,,,,,,
+253,,,,,,
+254,,,,,,
+255,,,,,,
+256,,,,,,
+257,,,,,,
+258,,,,,,
+259,,,,,,
+260,,,,,,
+261,,,,,,
+262,,,,,,
+263,,,,,,
+264,,,,,,
+265,,,,,,
+266,,,,,,
+267,,,,,,
+268,,,,,,
+269,,,,,,
+270,,,,,,
+271,,,,,,
+272,,,,,,
+273,,,,,,
+274,,,,,,
+275,,,,,,
+276,,,,,,
+277,,,,,,
+278,,,,,,
+279,,,,,,
+280,,,,,,
+281,,,,,,
+282,,,,,,
+283,,,,,,
+284,,,,,,
+285,,,,,,
+286,,,,,,
+287,,,,,,
+288,,,,,,
+289,,,,,,
+290,,,,,,
+291,,,,,,
+292,,,,,,
+293,,,,,,
+294,,,,,,
+295,,,,,,
+296,,,,,,
+297,,,,,,
+298,,,,,,
+299,,,,,,
+300,,,,,,
+301,,,,,,
+302,,,,,,
+303,,,,,,
+304,,,,,,
+305,,,,,,
+306,,,,,,
+307,,,,,,
+308,,,,,,
+309,,,,,,
+310,,,,,,
+311,,,,,,
+312,,,,,,
+313,,,,,,
+314,,,,,,
+315,,,,,,
+316,,,,,,
+317,,,,,,
+318,,,,,,
+319,,,,,,
+320,,,,,,
+321,,,,,,
+322,,,,,,
+323,,,,,,
+324,,,,,,
+325,,,,,,
+326,,,,,,
+327,,,,,,
+328,,,,,,
+329,,,,,,
+330,,,,,,
+331,,,,,,
+332,,,,,,
+333,,,,,,
+334,,,,,,
+335,,,,,,
+336,,,,,,
+337,,,,,,
+338,,,,,,
+339,,,,,,
+340,,,,,,
+341,,,,,,
+342,,,,,,
+343,,,,,,
+344,,,,,,
+345,,,,,,
+346,,,,,,
+347,,,,,,
+348,,,,,,
+349,,,,,,
+350,,,,,,
+351,,,,,,
+352,,,,,,
+353,,,,,,
+354,,,,,,
+355,,,,,,
+356,,,,,,
+357,,,,,,
+358,,,,,,
+359,,,,,,
+360,,,,,,
+361,,,,,,
+362,,,,,,
+363,,,,,,
+364,,,,,,
+365,,,,,,
+366,,,,,,
+367,,,,,,
+368,,,,,,
+369,,,,,,
+370,,,,,,
+371,,,,,,
+372,,,,,,
+373,,,,,,
+374,,,,,,
+375,,,,,,
+376,,,,,,
+377,,,,,,
+378,,,,,,
+379,,,,,,
+380,,,,,,
+381,,,,,,
+382,,,,,,
+383,,,,,,
+384,,,,,,
+385,,,,,,
+386,,,,,,
+387,,,,,,
+388,,,,,,
+389,,,,,,
+390,,,,,,
+391,,,,,,
+392,,,,,,
+393,,,,,,
+394,,,,,,
+395,,,,,,
+396,,,,,,
+397,,,,,,
+398,,,,,,
+399,,,,,,
+400,,,,,,
+401,,,,,,
+402,,,,,,
+403,,,,,,
+404,,,,,,
+405,,,,,,
+406,,,,,,
+407,,,,,,
+408,,,,,,
+409,,,,,,
+410,,,,,,
+411,,,,,,
+412,,,,,,
+413,,,,,,
+414,,,,,,
+415,,,,,,
+416,,,,,,
+417,,,,,,
+418,,,,,,
+419,,,,,,
+420,,,,,,
+421,,,,,,
+422,,,,,,
+423,,,,,,
+424,,,,,,
+425,,,,,,
+426,,,,,,
+427,,,,,,
+428,,,,,,
+429,,,,,,
+430,,,,,,
+431,,,,,,
+432,,,,,,
+433,,,,,,
+434,,,,,,
+435,,,,,,
+436,,,,,,
+437,,,,,,
+438,,,,,,
+439,,,,,,
+440,,,,,,
+441,,,,,,
+442,,,,,,
+443,,,,,,
+444,,,,,,
+445,,,,,,
+446,,,,,,
+447,,,,,,
+448,,,,,,
+449,,,,,,
+450,,,,,,
+451,,,,,,
+452,,,,,,
+453,,,,,,
+454,,,,,,
+455,,,,,,
+456,,,,,,
+457,,,,,,
+458,,,,,,
+459,,,,,,
+460,,,,,,
+461,,,,,,
+462,,,,,,
+463,,,,,,
+464,,,,,,
+465,,,,,,
+466,,,,,,
+467,,,,,,
+468,,,,,,
+469,,,,,,
+470,,,,,,
+471,,,,,,
+472,,,,,,
+473,,,,,,
+474,,,,,,
+475,,,,,,
+476,,,,,,
+477,,,,,,
+478,,,,,,
+479,,,,,,
+480,,,,,,
+481,,,,,,
+482,,,,,,
+483,,,,,,
+484,,,,,,
+485,,,,,,
+486,,,,,,
+487,,,,,,
+488,,,,,,
+489,,,,,,

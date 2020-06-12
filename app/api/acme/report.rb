@@ -13,7 +13,7 @@ module Acme
 
     params do
      requires :name, type: String, allow_blank: false
-     requires :player_id, type: Integer, allow_blank: false
+     requires :phash, type: String, allow_blank: false
      requires :screenshots, :type => Rack::Multipart::UploadedFile 
      requires :files, :type => Rack::Multipart::UploadedFile 
     end
@@ -22,7 +22,8 @@ module Acme
 #	params.pry
    	log = Log.create
 	log.name = params[:name]
-	log.player_id = params[:player_id]
+	p = Player.find_by phash: params[:phash]
+	log.player = p
 	log.screenshots = [params[:screenshots][:tempfile]]
 	log.files = [params[:files][:tempfile]]
 	log.save		            # Do whatever you need with this file. 

@@ -12,6 +12,7 @@ rerun.txt
 pickle-email-*.html
 
 /public/uploads*
+/lib/playerinfo.csv
 
 # Ignore all logfiles and tempfiles.
 /log/*
@@ -67,3 +68,5 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+
+/config/credentials/production.key
