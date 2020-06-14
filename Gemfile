@@ -8,7 +8,7 @@ gem 'rails_admin', '~> 2.0'
 gem 'grape'
 gem 'pry'
 gem 'pg'
-gem 'mina'
+#gem 'mina'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.1'
@@ -48,6 +48,9 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem "capistrano", "~> 3.10", require: false
+  gem "capistrano-rails", "~> 1.5", require: false
+  gem 'capistrano3-puma', github: "seuros/capistrano-puma"
 end
 
 group :test do
