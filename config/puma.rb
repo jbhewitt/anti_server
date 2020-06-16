@@ -15,7 +15,7 @@ shared_dir  = "#{app_dir}"
 
 
 threads         min_threads, max_threads
-port            ENV.fetch("PORT") { 3000 }
+#port            ENV.fetch("PORT") { 3000 }
 environment     ENV.fetch("RAILS_ENV") { "production" }
 bind            "unix://#{shared_dir}/tmp/sockets/puma.sock"
 pidfile         "#{shared_dir}/tmp/pids/puma.pid"
