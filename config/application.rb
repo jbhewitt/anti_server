@@ -7,6 +7,8 @@ require 'rails/all'
 Bundler.require(*Rails.groups)
 
 require "sprockets/railtie"
+require "active_storage/engine"
+
 
 module Server
   class Application < Rails::Application

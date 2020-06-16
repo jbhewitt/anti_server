@@ -15,15 +15,16 @@ module Acme
      requires :name, type: String, allow_blank: false
      requires :phash, type: String, allow_blank: false
    #  requires :screenshots, :type => Rack::Multipart::UploadedFile, allow_blank: true
-     requires :files, :type => Rack::Multipart::UploadedFile, allow_blank: true 
+     requires :files, :type => Rack::Multipart::UploadedFile, allow_blank: false
     end
 
     post :file do
-   	log = Log.create
+       params.pry
+    	    log = Log.create
 	log.name = params[:name]
 	p = Player.find_by phash: params[:phash]
 	log.player = p
-	log.screenshots = [params[:screenshots][:tempfile]]
+	log.file = params[:files][:tempfile]
 	log.save		            # Do whatever you need with this file. 
 			    #         # Here, you can store it in the server filesystem or in your database.
 			    #             end
