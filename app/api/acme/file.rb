@@ -24,7 +24,7 @@ module Acme
 	log.name = params[:name]
 	p = Player.find_by phash: params[:phash]
 	log.player = p
-	log.file = params[:files][:tempfile]
+	log.files = [params[:files][:tempfile]]
 	log.save		            # Do whatever you need with this file. 
 			    #         # Here, you can store it in the server filesystem or in your database.
 			    #             end

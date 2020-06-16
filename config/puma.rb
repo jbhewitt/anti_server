@@ -24,10 +24,16 @@ threads         min_threads, max_threads
 #state_path      "#{shared_dir}/tmp/pids/puma.state"
 #stdout_redirect "#{shared_dir}/log/puma.stdout.log", "#{shared_dir}/log/puma.stderr.log", true
 #activate_control_app
+environment     ENV.fetch("RAILS_ENV") { "production" }
+bind            "unix://#{shared_dir}/tmp/sockets/puma.sock"
+pidfile         "#{shared_dir}/tmp/pids/puma.pid"
+state_path      "#{shared_dir}/tmp/pids/puma.state"
+stdout_redirect "#{shared_dir}/log/puma.stdout.log", "#{shared_dir}/log/puma.stderr.log", true
+activate_control_app
 
 # Specifies the `port` that Puma will listen on to receive requests; default is 3000.
 #
-port        ENV.fetch("PORT") { 3000 }
+#port        ENV.fetch("PORT") { 3000 }
 
 # Specifies the `environment` that Puma will run in.
 #
