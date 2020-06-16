@@ -3,7 +3,7 @@ require 'csv'
 namespace :import do
   desc "import users from csv"
   task :players => :environment do
-    csv_text = File.read(Rails.root.join('lib/playerinfo.csv'))
+    csv_text = File.read(Rails.root.join('/tmp/playerinfo.csv'))
     csv = CSV.parse(csv_text, :headers => true, :encoding => 'ISO-8859-1')
     csv.each do |row|
       if row['name'] == ''
