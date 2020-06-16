@@ -11,10 +11,12 @@
 min_threads = ENV.fetch("MIN_THREADS") { 1 }.to_i
 max_threads = ENV.fetch("MAX_THREADS") { 6 }.to_i
 app_dir     = File.expand_path("../..", __FILE__)
+shared_dir  = "#{app_dir}"
+
+
+
 threads         min_threads, max_threads
-
 #port            ENV.fetch("PORT") { 3000 }
-
 environment     ENV.fetch("RAILS_ENV") { "production" }
 bind            "unix://#{shared_dir}/tmp/sockets/puma.sock"
 pidfile         "#{shared_dir}/tmp/pids/puma.pid"

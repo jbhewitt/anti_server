@@ -10,6 +10,7 @@ gem 'pry'
 gem 'pg'
 gem 'devise'
 gem 'cancancan'
+gem 'image_processing'
 
 #gem 'mina'
 
